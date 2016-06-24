@@ -3,7 +3,12 @@ layout: page
 title: Guild Artisan Personas
 ---
 
-If you're asking 'Why?', check out the [value stories](./value_stories.html).
+If you're asking:
+
+- *'Why?'*, check out the [value stories](./value_stories.html).
+- *'How do I become a candidate for progression?'*, check out [Being a Candidate](./progression_candidate.html).
+- *'What does it look like to be a candidate for progression?'*, check out [Being a Candidate](./progression_candidate.html).
+- For other commonly asked questions, check out the [FAQ](./faq.html).
 
 > The time frame denoted in parentheses is an average number of years spent working to reach that next level
 
