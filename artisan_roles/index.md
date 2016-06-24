@@ -10,7 +10,7 @@ If you're asking 'Why?', check out the [value stories](./value_stories.html).
 Prerequisites for Apprentice
 -------------------------
 As a **prospective Apprentice**  
-I should exhibit the following behaviors:
+I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Basic technical and soft-skills aptitude
 - Enthusiasm for learning
@@ -21,7 +21,7 @@ So that I can become an **Apprentice**
 Apprentice to Journeyman (1 year)
 -------------------
 As an **Apprentice**  
-I should exhibit the following behaviors:
+I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Proficiency in at least 1 marketable technology
 - Aware of basic Pillar Tenets of Software Engineering
@@ -33,7 +33,7 @@ So that I am eligible to become a **Journeyman**
 Journeyman to Craftsman (5+ years)
 ---------------------
 As a **Journeyman**  
-I should exhibit the following behaviors:
+I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Proficiency in at least 3 marketable technologies
 - Actively demonstrating Pillar’s engineering practices
@@ -47,7 +47,7 @@ So that I am eligible to become a **Craftsman**
 Craftsman to Master Craftsman (7+ years)
 --------------------
 As a **Craftsman**  
-I should exhibit the following behaviors:
+I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Demonstrable proficiency in at least 6 marketable technologies
 - Actively integrating engineering practices and value practices
@@ -71,7 +71,7 @@ So that I am eligible to become a **Master Craftsman**
 Master Craftsman
 ----------------
 As a **Master Craftsman**  
-I should exhibit the following behaviors:
+I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Know the rules, but more importantly, know when to break them
 - Leading/innovating engineering practices
