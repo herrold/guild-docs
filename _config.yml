@@ -30,8 +30,9 @@ navbar-links:
   #About: "about"
   #Contact: "contact"
   Personas: "artisan_roles"
+  Progression: "artisan_roles/progression_candidate.html"
   FAQ: "artisan_roles/faq.html"
-  
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -144,4 +145,3 @@ prose:
           element: "checkbox"
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
-  
