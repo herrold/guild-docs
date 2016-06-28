@@ -31,6 +31,13 @@ At this point in the process, you might be refused sponsorship and given feedbac
 
 ---
 
+## Why do I need a Sponsor?
+Having a Sponsor serves multiple purposes, but the primary purpose is to have someone "by your side" at the Litmus Test.  Your Sponsor will assist you in advocating for your eligibility for progression.
+
+The other major purpose that having a Sponsor serves is acting as a preliminary "screening".  Since the goal of the Litmus Test is for the Craftsmen of your Guild as a whole to agree that you are likely ready for progression and to provide feedback for the Guild Leaders to review, having one who has effectively already said that you are ready is a necessary first step.
+
+---
+
 ## What does it look like to be a Candidate for Progression?
 Your experience as a Candidate for Progression will be slightly different, based on which level you are progressing to.  Please reference the section for your particular progression for details specific to that progression.
 
