@@ -43,8 +43,8 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Proficiency in at least 3 marketable technologies
 - Actively demonstrating Pillar’s engineering practices
 - Actively demonstrating Consultant values
-- Actively learning team room practices
-- Actively learning value practices
+- Actively demonstrating team room practices
+- Actively demonstrating value practices
 - Actively participated/ing on at least 3 clients
 
 So that I am eligible to become a **Craftsman**
