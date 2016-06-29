@@ -4,13 +4,17 @@ title: FAQ
 ---
 
 How does the process of moving up a persona become initiated? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: The process of moving from one persona to another should be initiated with the help of your mentor. In the absence of a mentor, the most senior artisan on your team or account can step in. During your Career Retro (facilitated by your Account DE and Account Artisan), one topic of conversation should be about your career progression. Using the persona definitions as guidelines, a career plan should be constructed and reviewed during every Career Retro. Currently, the expectation is to have Career Retros on at least a 6 month cadence.
+: The process of moving from one persona to another should be initiated by finding a Sponsor.  In many cases, this may end up being your mentor, as that person will be extremely familiar with where you are at, what you have been working on, and the progress that you have made.  In the absence of a mentor, another Craftsman from your Guild can step in.  If, because of the composition of your current team, none of your Guild's Craftsmen are very familiar with your progress, the most senior artisan on your team or account can step in.
+: During your Career Retro (facilitated by your Account DE and Account Artisan), one topic of conversation should be about your career progression. Using the persona definitions as guidelines, a career plan should be constructed and reviewed during every Career Retro. Currently, the expectation is to have Career Retros on at least a 6 month cadence.  The result of this conversation may be an action item for you to find a Sponsor to initiate the process of becoming a Candidate for Progression.
+: See [Being a Candidate](./progression_candidate.html) for additional information.
 
 Who will judge an artisan's behaviors? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: Artisans will be treated to individual attention, much like the current new-hire interview process. An artisan's mentor and peers are responsible for giving frequent and honest feedback to help the artisan grow. Once the artisan has been identified, evaluations will be given by Master Craftsmen and Craftsmen, depending on availability and level of the artisan being evaluated.
+: Artisans will be treated to individual attention, much like the current new-hire interview process. An artisan's mentor and peers are responsible for giving frequent and honest feedback to help the artisan grow. Once the artisan has been identified (Sponsored), evaluations will be given by Master Craftsmen and Craftsmen (your Litmus Test). Depending on the level of the artisan being evaluated, further review of the results of the Litmus Test may be conducted by the Guild Leaders.
+: See [Being a Candidate](./progression_candidate.html) for additional information.
 
 How will the behaviors be judged (checked off) since some are subjective? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: For behaviors that are subjective, pairing and in-person observation will take place.
+: For behaviors that are subjective, pairing and in-person observation can take place.  Also, any evidence (examples and artifacts) that you can bring to your Litmus Test will facilitate a more objective evaluation of the prerequisites for progression to the next persona.
+: See [Being a Candidate](./progression_candidate.html) for additional information.
 
 Pillar should provide an opportunity for community participation (10% time?) [Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
 : We acknowledge that some people hold this opinion. However, this is not something we are going to implement at this time.
@@ -69,20 +73,20 @@ Is there a recommended reading list? [Issue #26](https://github.com/PillarTechno
 What happens if people are not doing a few of the items on the list? [Issue #28](https://github.com/PillarTechnology/guild-docs/issues/28)
 : They should aim to go above and beyond in other areas in order to compensate.
 
-Clarify the expectations listed with each persona as the 'thing you should be doing to go to the next level' v. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
+Clarify the expectations listed with each persona as the 'thing you should be doing to go to the next level' vs. 'to be at this level' [Issue #29](https://github.com/PillarTechnology/guild-docs/issues/29)
 : The expectations listed with each persona are framed as Acceptance Criteria. This means, for example, that an artisan is ready to become a Journeyman if they meet all of the expectations listed with the Apprentice persona, even if they do not meet any of the expectations listed with the Journeyman persona.
 
 What are the marketable technologies in areas other than programming? e.g. For testers [Issue #30](https://github.com/PillarTechnology/guild-docs/issues/30)
-: This is a new focus for us. We will need to work together to define marketable technologies for job families other than development. 
+: This is a new focus for us. We will need to work together to define marketable technologies for job families other than development.
 
-What about depth v. breadth of experience? Is my only path to advancement to be a generalist? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
+What about depth vs. breadth of experience? Is my only path to advancement to be a generalist? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
 : We believe in T-shaped people. There is a place for multiple specializations and the generalizing specialist.
 
 What is the sales/marketing/strategy view of polyglot and its utility to them? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31)
 : Pillar values smart people that adapt to changing technical challenges.
 
 Related, is there a difference in the kind of talent for Forge dwellers and embedded consultants? [Issue #31](https://github.com/PillarTechnology/guild-docs/issues/31) [That is an interesting notion]
-: In short, no. Although different skill sets may be required day-to-day while working at the Forge vs. at a client site, our goal is that any of our artisans should have the skill sets necessary to work effectivey in either environment as needed.
+: In short, no. Although different skill sets may be required day-to-day while working at the Forge vs. at a client site, our goal is that any of our artisans should have the skill sets necessary to work effectively in either environment as needed.
 
 Who is responsible for the 'future edification' of artisans? [Issue #32](https://github.com/PillarTechnology/guild-docs/issues/32)
 : We expect every individual
@@ -150,7 +154,7 @@ Are there any goals for cycle-time on feedback or pull-requests? [Issue #56](htt
 With issues that are asking clarifying questions, it takes longer to formulate a response because it is necessary to gain a consensus.
 
 What is the optimal size for a Pillar Guild?
-: Based on many converations, we believe the optimal size for a guild, should contain 20 - 30 members.
+: Based on many conversations, we believe the optimal size for a guild, should contain 20 - 30 members.
 
 Are guilds geographically based?
 : No.
