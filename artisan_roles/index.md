@@ -40,11 +40,12 @@ Journeyman to Craftsman (5+ years)
 As a **Journeyman**  
 I should exhibit all previous behaviors in addition to the following behaviors:
 
-- Proficiency in at least 3 marketable technologies
+- [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills/) skill set with proficiency in at least 3 marketable technologies and mastery of at least 1.
 - Actively demonstrating Pillar’s engineering practices
 - Actively demonstrating Consultant values
 - Actively demonstrating team room practices
 - Actively demonstrating value practices
+- Capable of leading a small team
 - Actively participated/ing on at least 3 clients
 
 So that I am eligible to become a **Craftsman**
