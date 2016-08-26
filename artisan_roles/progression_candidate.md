@@ -18,7 +18,7 @@ The purpose is to provide you with appropriate feedback and guidance to assist y
 A Candidate for Progression is an Artisan who has:
 
 * Demonstrated that he or she is ready for consideration to be moved to the next Guild Persona
-* Been sponsored for candidacy by a Craftsman in his or her Guild
+* Been sponsored for Candidacy by a Craftsman within his or her Guild (or outside of their Guild if they are working closely with the Craftsman)
 
 ---
 
@@ -48,20 +48,25 @@ During the meeting, ***all of the prerequisites for all the personas up through 
 
 To facilitate this process, ***please bring any examples or other artifacts that you might have that help demonstrate your proficiency for the various prerequisites***.  Having examples and artifacts will allow the evaluation to be more objective and grounded in the data and evidence of proficiency.
 
-If there are Craftsmen from other Guilds who you feel would provide useful insight into your abilities, please request that they be invited to your Litmus Test.
+If there are Craftsmen from other Guilds who you feel would provide useful insight into your abilities, please request that they be invited to your Litmus Test.  A representative from Delivery will also be invited to participate in your Litmus Test (either the DL on your team or the DM/DE on your account).
 
 #### The Guild Leader Review ####
 For some levels of progression (e.g. Journeyman to Craftsman), a review of the results from the Litmus Test is performed by the Guild Leaders before a recommendation to Delivery is made.  This is important at the higher level personas in order to help norm on and maintain a consistency of evaluation and understanding of *"what it means to be performing as this persona"* across Guilds.
 
 ### From Apprentice to Journeyman
+Each of the following signifies a step in the process.  Your progression is not complete until the last step has been completed.
+
 1. You will need to gain sponsorship from a Craftsman within your Guild to become a Candidate for Progression from Apprentice to Journeyman.
 2. Your Litmus Test will be scheduled with the Craftsmen of your Guild (and any Craftsmen from other Guilds that you have requested to be invited).
 3. If there are action items coming out of your Litmus Test, then your candidacy ends.  You will need to take those items and demonstrate improvement toward them before you will be again sponsored as a Candidate for Progression.
 4. If the result of your Litmus Test is that the Craftsmen of the Guild agree that you are a good Candidate for Progression, then your Guild Leader will recommend to Delivery that you are ready to make the move from Apprentice to Journeyman.
 5. Your Guild Leader will work with Delivery to determine when this move can happen.
 ***Please note that, based on various factors, an immediate move is not always possible.***
+6. After final approvals have been obtained and paperwork has been completed, your DL/DM/DE will meet with you and discuss the details of your progression with you.  Only then will the progression to Journeyman be completed.
 
 ### From Journeyman to Craftsman
+Each of the following signifies a step in the process.  Your progression is not complete until the last step has been completed.
+
 1. You will need to gain sponsorship from a Craftsman within your Guild to become a Candidate for Progression from Journeyman to Craftsman.
 2. Your Litmus Test will be scheduled with the Craftsmen of your Guild (and any Craftsmen from other Guilds that you have requested to be invited).
 3. If there are action items coming out of your Litmus Test, then your candidacy ends.  You will need to take those items and demonstrate improvement toward them before you will be again sponsored as a Candidate for Progression.
@@ -70,6 +75,7 @@ For some levels of progression (e.g. Journeyman to Craftsman), a review of the r
 6. If the result of your Guild Leader Review is that the Guild Leaders agree that you are a good Candidate for Progression, then your Guild Leader will recommend to Delivery that you are ready to make the move from Journeyman to Craftsman.
 7. Your Guild Leader will work with Delivery to determine when this move can happen.
 ***Please note that, based on various factors, an immediate move is not always possible.***
+8. After final approvals have been obtained and paperwork has been completed, your DL/DM/DE will meet with you and discuss the details of your progression with you.  Only then will the progression to Craftsman be completed.
 
 ### From Craftsman to Master Craftsman
 What this looks like is still to be determined.
