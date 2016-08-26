@@ -18,7 +18,7 @@ The purpose is to provide you with appropriate feedback and guidance to assist y
 A Candidate for Progression is an Artisan who has:
 
 * Demonstrated that he or she is ready for consideration to be moved to the next Guild Persona
-* Been sponsored for Candidacy by a Craftsman in his or her Guild
+* Been sponsored for Candidacy by a Craftsman within his or her Guild (or outside of their Guild if they are working closely with the Craftsman)
 
 ---
 
