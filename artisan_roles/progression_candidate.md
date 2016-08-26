@@ -62,7 +62,7 @@ Each of the following signifies a step in the process.  Your progression is not 
 4. If the result of your Litmus Test is that the Craftsmen of the Guild agree that you are a good Candidate for Progression, then your Guild Leader will recommend to Delivery that you are ready to make the move from Apprentice to Journeyman.
 5. Your Guild Leader will work with Delivery to determine when this move can happen.
 ***Please note that, based on various factors, an immediate move is not always possible.***
-6. After final approvals have been obtained and paperwork has been completed, only then will the progression to Journeyman be completed.
+6. After final approvals have been obtained and paperwork has been completed, your DL/DM/DE will meet with you and discuss the details of your progression with you.  Only then will the progression to Journeyman be completed.
 
 ### From Journeyman to Craftsman
 Each of the following signifies a step in the process.  Your progression is not complete until the last step has been completed.
@@ -75,7 +75,7 @@ Each of the following signifies a step in the process.  Your progression is not 
 6. If the result of your Guild Leader Review is that the Guild Leaders agree that you are a good Candidate for Progression, then your Guild Leader will recommend to Delivery that you are ready to make the move from Journeyman to Craftsman.
 7. Your Guild Leader will work with Delivery to determine when this move can happen.
 ***Please note that, based on various factors, an immediate move is not always possible.***
-8. After final approvals have been obtained and paperwork has been completed, only then will the progression to Craftsman be completed.
+8. After final approvals have been obtained and paperwork has been completed, your DL/DM/DE will meet with you and discuss the details of your progression with you.  Only then will the progression to Craftsman be completed.
 
 ### From Craftsman to Master Craftsman
 What this looks like is still to be determined.
