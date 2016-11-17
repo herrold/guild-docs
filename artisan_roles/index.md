@@ -10,6 +10,16 @@ If you're asking:
 - *'What does it look like to be a candidate for progression?'*, check out [Being a Candidate](./progression_candidate.html).
 - For other commonly asked questions, check out the [FAQ](./faq.html).
 
+## Summary
+
+We use a scale of Apprentice – Journeyman – Craftsman to describe an artisan's career stage. These levels are inspired by [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html) and other books on Software Craftsmanship, but have specific meaning within Pillar.
+
+- At all levels, Pillar developers are very highly skilled and bring a lot of valuable experience to their teams and projects. We all are enthusiastic about continuously improving our craft, learning from others, and teaching what we know.
+- Apprentices have a strong technical foundation and an eagerness to learn the Pillar way of delivering software. With help, they can build really well-crafted solutions in a short period of time.
+- Journeymen have demonstrated proficiency applying Pillar engineering practices on an agile team. They've got the chops not just to do excellent work, but also to mentor both teammates and clients.
+- Craftsmen have technical skills that are both broad and deep, demonstrating a level of mastery that comes from experience and hard lessons learned. They also have the consulting skills, business acumen, and leadership ability to help their whole team and project flourish.
+
+
 > The time frame denoted in parentheses is an average number of years spent working to reach that next level
 
 Prerequisites for Apprentice
