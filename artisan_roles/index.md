@@ -20,8 +20,6 @@ We use a scale of Apprentice – Journeyman – Craftsman to describe an artisan
 - Craftsmen have technical skills that are both broad and deep, demonstrating a level of mastery that comes from experience and hard lessons learned. They also have the consulting skills, business acumen, and leadership ability to help their whole team and project flourish.
 
 
-> The time frame denoted in parentheses is an average number of years spent working to reach that next level
-
 Prerequisites for Apprentice
 -------------------------
 As a **prospective Apprentice**  
@@ -33,7 +31,7 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 
 So that I can become an **Apprentice**
 
-Apprentice to Journeyman (1 year)
+Apprentice to Journeyman
 -------------------
 As an **Apprentice**  
 I should exhibit all previous behaviors in addition to the following behaviors:
@@ -43,9 +41,9 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Awareness of Consultant responsibilities
 - Actively participated on at least one Pillar Project
 
-So that I am eligible to become a **Journeyman**
+So that I am eligible to become a **Journeyman**. I understand it may take about 1 year to make this transition.
 
-Journeyman to Craftsman (5+ years)
+Journeyman to Craftsman
 ---------------------
 As a **Journeyman**  
 I should exhibit all previous behaviors in addition to the following behaviors:
@@ -58,9 +56,9 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Capable of leading a small team
 - Actively participated/ing on at least 3 clients
 
-So that I am eligible to become a **Craftsman**
+So that I am eligible to become a **Craftsman**. I understand that this transition usually requires more than five years to achieve.
 
-Craftsman to Master Craftsman (7+ years)
+Craftsman to Master Craftsman
 --------------------
 As a **Craftsman**  
 I should exhibit all previous behaviors in addition to the following behaviors:
@@ -82,7 +80,7 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Leading team room practices
 - 6+ clients
 
-So that I am eligible to become a **Master Craftsman**
+So that I am eligible to become a **Master Craftsman**. I understand that this transition usually requires more than seven years to achieve.
 
 Master Craftsman
 ----------------
