@@ -20,7 +20,19 @@ Pillar should provide an opportunity for community participation (10% time?) [Is
 : We acknowledge that some people hold this opinion. However, this is not something we are going to implement at this time.
 
 Are my promotion qualifications tied heavily to my participation in activities outside of work (community participation)? [Inferred, Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
-: Depends on how you define 'heavily.' Will someone who participates in the community grow and mature in their profession at a faster rate? Experience says 'yes'. So, an artisan that participates in activities outside of their billable time will progress at a faster rate.
+: Depends on how you define 'heavily.' Pillar's goal in this area is two-fold: 0) Help raise awareness of the great work Pillar does. 1) Help raise your own technical and consulting accumen, which in turn raises your value to Pillar. 
+
+: Another way to view this is learning, then "paying it forward" to help yourself and others grow. There are a number of ways you can do that, some "on the clock", some outside of work. Consider leading or participating in activities like the following:
+
+* Creating technical StepItUp content
+* Writing pertinent blog posts, either on your own or Pillar's blogs
+* Help Pillar create a white paper about the impact your and your team have had on the customer
+* Speak at conferences, user groups, meet ups
+* Put on a lunch-and-learn at your project
+* Run a book club at your project
+* Become active with an Open Source project
+
+: Reading books and doing work after hours on your own helps your own growth; we encourage that! We also encourage you to take another step and pay it forward.
 
 Are measures like the number of releases optional? Or explain how that works? [Issue #14](https://github.com/PillarTechnology/guild-docs/issues/314)
 : The answer is in the same vein as the answers to the questions for Issue #21.
