@@ -10,7 +10,15 @@ If you're asking:
 - *'What does it look like to be a candidate for progression?'*, check out [Being a Candidate](./progression_candidate.html).
 - For other commonly asked questions, check out the [FAQ](./faq.html).
 
-> The time frame denoted in parentheses is an average number of years spent working to reach that next level
+## Summary
+
+We use a scale of Apprentice – Journeyman – Craftsman to describe an artisan's career stage. These levels are inspired by [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html) and other books on Software Craftsmanship, but have specific meaning within Pillar.
+
+- At all levels, Pillar developers are very highly skilled and bring a lot of valuable experience to their teams and projects. We all are enthusiastic about continuously improving our craft, learning from others, and teaching what we know.
+- Apprentices have a strong technical foundation and an eagerness to learn the Pillar way of delivering software. With help, they can build really well-crafted solutions in a short period of time.
+- Journeymen have demonstrated proficiency applying Pillar engineering practices on an agile team. They've got the chops not just to do excellent work, but also to mentor both teammates and clients.
+- Craftsmen have technical skills that are both broad and deep, demonstrating a level of mastery that comes from experience and hard lessons learned. They also have the consulting skills, business acumen, and leadership ability to help their whole team and project flourish.
+
 
 Prerequisites for Apprentice
 -------------------------
@@ -23,7 +31,7 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 
 So that I can become an **Apprentice**
 
-Apprentice to Journeyman (1 year)
+Apprentice to Journeyman
 -------------------
 As an **Apprentice**  
 I should exhibit all previous behaviors in addition to the following behaviors:
@@ -33,9 +41,9 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Awareness of Consultant responsibilities
 - Actively participated on at least one Pillar Project
 
-So that I am eligible to become a **Journeyman**
+So that I am eligible to become a **Journeyman**. I understand it may take about 1 year to make this transition.
 
-Journeyman to Craftsman (5+ years)
+Journeyman to Craftsman
 ---------------------
 As a **Journeyman**  
 I should exhibit all previous behaviors in addition to the following behaviors:
@@ -48,9 +56,9 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Capable of leading a small team
 - Actively participated/ing on at least 3 clients
 
-So that I am eligible to become a **Craftsman**
+So that I am eligible to become a **Craftsman**. I understand that this transition usually requires more than five years to achieve.
 
-Craftsman to Master Craftsman (7+ years)
+Craftsman to Master Craftsman
 --------------------
 As a **Craftsman**  
 I should exhibit all previous behaviors in addition to the following behaviors:
@@ -72,7 +80,7 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Leading team room practices
 - 6+ clients
 
-So that I am eligible to become a **Master Craftsman**
+So that I am eligible to become a **Master Craftsman**. I understand that this transition usually requires more than seven years to achieve.
 
 Master Craftsman
 ----------------
