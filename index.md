@@ -4,7 +4,7 @@ title: Guilds? Why? Who? How?
 ---
 
 ### Why Guilds?
-- Guilds exist to provide improved support to the individuals in technical roles as Pillar grows.
+- As Pillar grows, it is important that Guilds exist to provide improved support to individuals in technical roles.
 - Artisans who are further down their path of craftsmanship should be helping artisans who are earlier on.
 - The structure and behaviors the Guild system introduces will be in service of helping ensure everyone has a path to grow professionally.
 - Individuals will experience more meaningful career guidance and improved focus on measuring career progression.  An individual’s learning and growth is a never ending journey.
