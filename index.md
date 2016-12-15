@@ -1,9 +1,13 @@
 ---
-layout: post
-title: Why? Who? How?
+layout: page
+title: Guilds? Why? Who? How?
 ---
+
 ### Why Guilds?
-- Guilds exist to provide improved support to the individuals in technical roles as Pillar grows. Artisans who are further down the path to craftsmanship should be helping artisans who are earlier on their path to craftsmanship. The structure and behaviors the Guild system introduces will be in service of helping ensure everyone has a path to grow professionally. As an example, individuals will experience more meaningful career guidance and improved focus on measuring career progression.  An individual’s learning and growth is a never ending journey.
+- As Pillar grows, it is important that Guilds exist to provide improved support to individuals in technical roles.
+- Artisans who are further down their path of craftsmanship should be helping artisans who are earlier on.
+- The structure and behaviors the Guild system introduces will be in service of helping ensure everyone has a path to grow professionally.
+- Individuals will experience more meaningful career guidance and improved focus on measuring career progression.  An individual’s learning and growth is a never ending journey.
 - Ensure every single artisan at Pillar, regardless of experience, knows what is expected of them in the role they are playing, where they have growth opportunities, and what competencies they need to develop and demonstrate to gain new opportunities.
 
 ### Who makes up Guilds?
@@ -11,7 +15,7 @@ title: Why? Who? How?
 
 ### How can I contribute to the growth of my Guild?
 - Participate and provide feedback related to the Academy
-    - https://pillaracademy.github.io
+    - [https://pillaracademy.github.io](https://pillaracademy.github.io)
 - Mentoring
 - Guild Projects
 - Create StepItUp Steps
