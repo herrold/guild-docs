@@ -63,7 +63,7 @@ There are a number of things you'll need to do as part of preparing for your Lit
 
 During the meeting, ***all of the prerequisites for all the personas up through the one progression you are to be a candidate for*** will be discussed and evaluated.  For example, if you are a candidate for progressing from Journeyman to Craftsman, all of the prerequisites for "Apprentice", "Apprentice to Journeyman", and "Journeyman to Craftsman" would be evaluated.
 
-During the meeting the group&mdash;including you!&mdash;will come to a consensus whether or not you're ready for advancement. 
+During the meeting the group will come to a consensus on whether or not you're ready for advancement.
 
 If the decision is you're not ready, then the group will come up with *specific* action items for you to accomplish.
 
@@ -72,7 +72,7 @@ You should expect to spend three to four hours, possibly more, in the Litmus Tes
 #### Review by Guild Leaders ####
 For some levels of progression (e.g. Journeyman to Craftsman), a review of the results from the Litmus Test is performed by the Guild Leaders before a recommendation to Delivery is made.  This is important at the higher level personas in order to help norm on and maintain a consistency of evaluation and understanding of *"what it means to be performing as this persona"* across Guilds.
 
-## Role Advancement Processes 
+## Role Advancement Processes
 
 ### Apprentice to Journeyman, and Journeyman to Craftsman
 
@@ -81,10 +81,12 @@ Each of the following steps are required.
 1. Gain sponsorship from a Craftsman within your Guild
 2. Contact your Guild Leader to schedule the Litmus Test
 3. Go through the Litmus Test
+  * For Apprentice to Journeyman, this happens with the Craftsmen of your Guild, your DL, your TL, and your Sponsor
+  * For Journeyman to Craftsman, this also includes a subsequent review with the Guild Leaders
 4. If the result of your Litmus Test is you're not yet ready, this part of your progression stops. You'll need to address the resulting action items and schedule a follow-on Litmus Test
 5. If the result of your Litmus Test is you're ready, then your Guild Leader will work with Delivery to determine when this move can happen.
 ***Please note that, based on various factors, an immediate move is not always possible.***
-6. After final approvals have been obtained and paperwork has been completed, your DL/DM/DE will meet with you and discuss the details of your progression with you.  Only then will the progression to Journeyman be completed.
+6. After final approvals have been obtained and paperwork has been completed, your DL/DM/DE will meet with you and discuss the details of your progression with you.  Only then will the candidacy for progression be completed.
 
 ### From Craftsman to Master Craftsman
 What this looks like is still to be determined.
