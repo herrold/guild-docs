@@ -9,7 +9,7 @@ How does the process of moving up a persona become initiated? [Issue #8](https:/
 : See [Being a Candidate](./progression_candidate.html) for additional information.
 
 Who will judge an artisan's behaviors? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
-: Artisans will be treated to individual attention, much like the current new-hire interview process. An artisan's mentor and peers are responsible for giving frequent and honest feedback to help the artisan grow. Once the artisan has been identified (Sponsored), evaluations will be given by Master Craftsmen and Craftsmen (your Litmus Test). Depending on the level of the artisan being evaluated, further review of the results of the Litmus Test may be conducted by the Guild Leaders.
+: Artisans will be treated to individual attention, much like the current new-hire interview process. An artisan's mentor and peers are responsible for giving frequent and honest feedback to help the artisan grow. Once the artisan has been identified (Sponsored), evaluations will be given by Craftsmen (your Litmus Test). Depending on the level of the artisan being evaluated, further review of the results of the Litmus Test may be conducted by the Guild Leaders.
 : See [Being a Candidate](./progression_candidate.html) for additional information.
 
 How will the behaviors be judged (checked off) since some are subjective? [Issue #8](https://github.com/PillarTechnology/guild-docs/issues/8)
@@ -20,7 +20,7 @@ Pillar should provide an opportunity for community participation (10% time?) [Is
 : We acknowledge that some people hold this opinion. However, this is not something we are going to implement at this time.
 
 Are my promotion qualifications tied heavily to my participation in activities outside of work (community participation)? [Inferred, Issue #12](https://github.com/PillarTechnology/guild-docs/issues/12)
-: Depends on how you define 'heavily.' Pillar's goal in this area is two-fold: 0) Help raise awareness of the great work Pillar does. 1) Help raise your own technical and consulting accumen, which in turn raises your value to Pillar. 
+: Depends on how you define 'heavily.' Pillar's goal in this area is two-fold: 0) Help raise awareness of the great work Pillar does. 1) Help raise your own technical and consulting accumen, which in turn raises your value to Pillar.
 
 : Another way to view this is learning, then "paying it forward" to help yourself and others grow. There are a number of ways you can do that, some "on the clock", some outside of work. Consider leading or participating in activities like the following:
 
@@ -127,10 +127,10 @@ How do we make sure we have the proper ratio of the various artisan groups in or
 : Guild leaders will document and continuously update the preferred structure for a healthy team that takes into account productivity and the need to develop people.
 
 How do these personas relate to the roles played at the client location? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: As a consultant, you will always be playing multiple roles at any given time.  You will be minimally playing one role for Pillar and another role for a client.  Sometimes they will overlap greatly.  Other times, they will be completely different.  And even other times, you might be playing more than one role for the client (e.g. both the product owner and the iteration manager).  It entirely depends on what the client needs.  However, you shouldn't ever be playing a role at a client that you aren't either already able to handle or ready to grow into.  The example in the issue was, "what if an apprentice was asked to play a master craftsman role at a client."  That should never happen.  The apprentice wouldn't be ready to play that role.  If it does happen, please escalate that immediately, because we want to ensure that our artisans are always placed in a role where they can grow and be successful, and we want to ensure that we have the appropriate people in the appropriate roles to enable success at our clients.
+: As a consultant, you will always be playing multiple roles at any given time.  You will be minimally playing one role for Pillar and another role for a client.  Sometimes they will overlap greatly.  Other times, they will be completely different.  And even other times, you might be playing more than one role for the client (e.g. both the product owner and the iteration manager).  It entirely depends on what the client needs.  However, you shouldn't ever be playing a role at a client that you aren't either already able to handle or ready to grow into.  The example in the issue was, "what if an apprentice was asked to play a craftsman role at a client."  That should never happen.  The apprentice wouldn't be ready to play that role.  If it does happen, please escalate that immediately, because we want to ensure that our artisans are always placed in a role where they can grow and be successful, and we want to ensure that we have the appropriate people in the appropriate roles to enable success at our clients.
 
 How is this not stack ranking? [Issue #35](https://github.com/PillarTechnology/guild-docs/issues/35)
-: It's definitely not stack ranking.  We haven't looked at the distribution of talent currently at Pillar, fit it to a bell curve, and draw arbitrary lines for the different guild personas.  In other words, there is not a set number of Master Craftsmen, Craftsmen, Journeymen, or Apprentices in the organization. If there are highly qualified individuals that qualify to be Craftsmen, they will be Craftsmen. If Pillar becomes top-heavy because of this, that's a nice problem to have. Also, this process and distribution will be driven by your peers, not by management.
+: It's definitely not stack ranking.  We haven't looked at the distribution of talent currently at Pillar, fit it to a bell curve, and draw arbitrary lines for the different guild personas.  In other words, there is not a set number of Craftsmen, Journeymen, or Apprentices in the organization. If there are highly qualified individuals that qualify to be Craftsmen, they will be Craftsmen. If Pillar becomes top-heavy because of this, that's a nice problem to have. Also, this process and distribution will be driven by your peers, not by management.
 
 For those who are familiar with learning theory, you can think of the personas as, in some ways, running parallel to learning stages.  (Apologies if some liberties have been taken with the Step It Up learning stages and their names.  Maslow's learning stages are added for additional context.)
 
@@ -139,8 +139,7 @@ Persona | SIU Learning Stage | Maslow's Learning Stage | Other Notes
 Pre-Apprentice | -- | Unconscious Incompetence | Identified as Ready to Start Learning
 Apprentice | Aware | Conscious Incompetence |
 Journeyman | Demonstrating | Conscious Competence |
-Craftsman | Teaching | Unconscious Competence |
-Master Craftsman | -- | -- | Leading / Guiding / Setting the Direction
+Craftsman | Teaching | Unconscious Competence | Leading / Guiding / Setting the Direction
 
 Who is the target? [Issue #36](https://github.com/PillarTechnology/guild-docs/issues/36)
 : The target for these personas and the Guilds are the artisans at Pillar. Not included in the initial rollout are Delivery personnel, nor those designated as Executive Consultants.
@@ -157,7 +156,7 @@ How will we provide support for artisans to progress without working unsustainab
 Will appropriate and gender neutral allowances be made for candidates at every turn? [Issue #40-41](https://github.com/PillarTechnology/guild-docs/issues/40)
 : The goal of this system is to solve the career progression ambiguity at Pillar. There was not a specific focus on diversity. We welcome any and all input from our Diversity Committee.
 
-Will the master craftsmen have training and diversity goals for individuals and teams? [Issue #41](https://github.com/PillarTechnology/guild-docs/issues/41)
+Will the craftsmen have training and diversity goals for individuals and teams? [Issue #41](https://github.com/PillarTechnology/guild-docs/issues/41)
 : The goal of this system is to solve the career progression ambiguity at Pillar. There was not a specific focus on diversity. We welcome any and all input from our Diversity Committee.
 
 Are there any goals for cycle-time on feedback or pull-requests? [Issue #56](https://github.com/PillarTechnology/guild-docs/issues/56)

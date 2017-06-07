@@ -22,7 +22,7 @@ We use a scale of Apprentice – Journeyman – Craftsman to describe an artisan
 
 Prerequisites for Apprentice
 -------------------------
-As a **prospective Apprentice**  
+As a **prospective Apprentice**
 I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Basic technical and soft-skills aptitude
@@ -33,7 +33,7 @@ So that I can become an **Apprentice**
 
 Apprentice to Journeyman
 -------------------
-As an **Apprentice**  
+As an **Apprentice**
 I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Proficiency in at least 1 marketable technology
@@ -45,7 +45,7 @@ So that I am eligible to become a **Journeyman**. I understand it may take about
 
 Journeyman to Craftsman
 ---------------------
-As a **Journeyman**  
+As a **Journeyman**
 I should exhibit all previous behaviors in addition to the following behaviors:
 
 - [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) skill set with proficiency in at least 3 marketable technologies and mastery of at least 1.
@@ -57,45 +57,3 @@ I should exhibit all previous behaviors in addition to the following behaviors:
 - Actively participated/ing on at least 3 clients
 
 So that I am eligible to become a **Craftsman**. I understand that this transition usually requires more than five years to achieve.
-
-Craftsman to Master Craftsman
---------------------
-As a **Craftsman**  
-I should exhibit all previous behaviors in addition to the following behaviors:
-
-- Demonstrable proficiency in at least 6 marketable technologies
-- Actively integrating engineering practices and value practices
-- Pay it forward (blogs, open source, speaking engagements, etc)
-- Organizational development within Pillar
-    + talent
-    + content creation
-    + growth engagements
-- A mentor: have mentored 3/yr of Apprentices and Journeymen
-    + peer references required
-- Understand the history and rationale for our development practices
-- Heightened consulting skills
-    + Understand what change your client and team are ready for and speak to it appropriately
-- High level of emotional intelligence
-    - e.g. Identify and manage situations where harassment is an issue
-- Leading team room practices
-- 6+ clients
-
-So that I am eligible to become a **Master Craftsman**. I understand that this transition usually requires more than seven years to achieve.
-
-Master Craftsman
-----------------
-As a **Master Craftsman**  
-I should exhibit all previous behaviors in addition to the following behaviors:
-
-- Know the rules, but more importantly, know when to break them
-- Leading/innovating engineering practices
-- Leading/innovating business acumen
-- Mentor: finding and growing future Master Craftsman
-- Influencing organizational development
-- Maintain the following practice documents:
-    + Pillar Tenets of Software Craftsmanship
-    + Pillar’s Value Practices
-    + Marketable Skills for Artisans
-    + Pillar’s Team Room Practices
-
-So that I can maintain and grow my role as a **Master Craftsman**
