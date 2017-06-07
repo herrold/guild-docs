@@ -175,3 +175,6 @@ Will I be allowed to switch guilds?
 
 Do we expect guilds to change over time?
 : Yes.  We do not have all of the answers, but that's okay.  We will figure things out as we go and iterate to make it better.  (Ambiguity is okay)
+
+Why was the Master Craftsman persona removed?
+: The guild leaders discussed the Master Craftsman persona in its current form at Pillar. It was decided to remove the persona to reduce confusion among the Artisans. At the time it was removed, there were no Master Craftsman currently identified at Pillar. The process for attaining this designation had been placed on hold due to the guilds pursuing other strategic initiatives, namely the care and feeding of the Artisan population.
