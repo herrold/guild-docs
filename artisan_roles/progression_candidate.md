@@ -88,12 +88,6 @@ Each of the following steps are required.
 ***Please note that, based on various factors, an immediate move is not always possible.***
 6. After final approvals have been obtained and paperwork has been completed, your DL/DM/DE will meet with you and discuss the details of your progression with you.  Only then will the candidacy for progression be completed.
 
-### From Craftsman to Master Craftsman
-What this looks like is still to be determined.
-
-### Re-certifying Your Standing as a Master Craftsman
-What this looks like is still to be determined.
-
 ---
 
 ## What if I have concerns over how my Candidacy for Progression is being handled?
