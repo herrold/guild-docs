@@ -3,6 +3,9 @@ layout: page
 title: Guilds? Why? Who? How?
 ---
 
+### Value Story
+As a learning community, we want to build up individual skills through mentoring, leading to career growth so that we can scale up while keeping our culture.
+
 ### What is the purpose of the Guilds?
 Pillar Guilds provide the mechanism for advancing through our stages of Apprentice, Journeyman, Craftsman, and, ultimately, Master Craftsman. At every stage of advancement, a Guild member joins with a sponsor who will shepherd them through the process – both of whom take responsibility for their role in the partnership. It is the responsibility of Guild leadership to ensure that this process is followed effectively, and each sponsor will communicate their progress on a regular basis. Further, the Guild is responsible to each and every member—ensuring they know exactly what Pillar expects of them in each role.
 
