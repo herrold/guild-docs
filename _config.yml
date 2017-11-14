@@ -31,6 +31,7 @@ navbar-links:
   #Contact: "contact"
   Personas: "artisan_roles"
   Progression: "artisan_roles/progression_candidate.html"
+  Study Guide: "artisan_roles/study_guide.html"
   FAQ: "artisan_roles/faq.html"
 
 # --- Footer options --- #
