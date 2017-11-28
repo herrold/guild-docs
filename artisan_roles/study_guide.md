@@ -5,7 +5,7 @@ title: Artisan Study Guide
 
 This study guide is meant to provide some topics to help artisans focus on improving their value to Pillar and Pillar's clients.
 
-**The links to Step It Up content will not work unless you are logged into Step It Up with your Pillar account.**
+**The links to Step It Up content will not work unless you are logged into Step It Up with your Pillar account in this browser.**
 
 ## Table of Contents
 * [Pillar Principles](#pillar-principles)
@@ -66,72 +66,72 @@ This study guide is meant to provide some topics to help artisans focus on impro
 
 ## Pillar Core Competencies
 1. **Business Acumen**
-	* _Focus on the business problem, not the technical solution_  
+  * _Focus on the business problem, not the technical solution_  
     Consistent focus on the "what" vs. the "how". Ability to stay at the level of the business objectives, business processes and desired outcomes vs. jumping into technical solutioning.
-	* _Writing and prioritizing Value Stories_  
+  * _Writing and prioritizing Value Stories_  
     Demonstrates the ability to create quantify-able value stories that map back to true business objectives. Ability to prioritize value stories and use them to drive programs, releases and the creation of stories.
-	* _Managing the un-measurable (understanding the difference)_  
+  * _Managing the un-measurable (understanding the difference)_  
     Understanding that there are targets and metrics that a business uses to track and set goals, but that there are non-measurable items (culture, values, perceptions, attitudes, satisfaction, etc.) that also need to be managed. Demonstrates ability to create situations for the un-measurable to flourish
 2. **Consulting Skills**
   * _Situational Awareness_
     Having the right view of the situation, approaching the situation with the right intention and executing the right action given the situation.
-	* _Continuous Improvement_
+  * _Continuous Improvement_
     Incorporating a focus on Lean and Six Sigma principles to look at ways to improve a client's operations. Looking at processes and systems as a whole versus trying to optimize at the component (or individual) level.
-	* _Trusted Client Advisor_
+  * _Trusted Client Advisor_
     The ability to think critically on behalf of the client. Demonstrating creative problem solving and strategic vision to help clients move past the "here and now" to a future vision. Creating trusted relationships with clients that allow for transparent communications.
-	* _Professional Appearance_
+  * _Professional Appearance_
     Having an awareness of one's presentation and how it will be received by  clients. Adhering to a client's dress code without being asked or reminded. Portraying an appearance of self-confidence and organization to the client.
 3. **Collaboration**  
-	* _Pairing_  
+  * _Pairing_  
     Ability for two individuals to work as equals and in a cooperative manner to produce a higher quality outcome.
-	* _Teaming_  
+  * _Teaming_  
     Ability to work collaboratively and cooperatively as a member of a group assigned some sub-task of a larger, and possibly complex endeavor.
-	* _Focus on the success of others_  
+  * _Focus on the success of others_  
     Consistently putting a priority on the successful outcomes of others.
-	* _Focus on the system/situation, not the person_  
+  * _Focus on the system/situation, not the person_  
     Take the "person" out of the equation and avoid pointing the finger at someone. Ability to focus on the observable facts and context .
 4. **Passion**  
-	* _Continuous Learning_  
+  * _Continuous Learning_  
     Seeks opportunities to learn new skills.
-	* _Community Involvement_  
+  * _Community Involvement_  
     Involvement in user groups, conferences, meet-ups. Both participation and in presenting.
-	* _Community Building_  
+  * _Community Building_  
     Acting in a leadership position for user groups, creating new meet-ups, linking passionate people together.
-	* _Have Joy in Work_  
+  * _Have Joy in Work_  
     Approaching clients and other Pillar people with a positive attitude. Genuinely appreciating others and work challenges of all kinds
 5. **Communication Skills**  
-	* _Presentations_  
+  * _Presentations_  
     Ability to create and deliver engaging content that keeps that attention of participants. Ability to facilitate dialog with and between participants. Understands the importance of knowing your audience and tailors content appropriately
-	* _Formal Writing_  
+  * _Formal Writing_  
     Ability to articulate concepts in writing in "right-sized" chunks. Understands that "less is more" when it comes to amount of words used to convey a point. Ability to develop formal business documents given a template (proposals, SOWs, RFP responses, etc.).
-	* _Effective Verbal Interaction_  
+  * _Effective Verbal Interaction_  
     Speaks clearly and concisely. Considers the words used to convey a point to avoid creating unnecessary conflict.
 6. **Technical Acumen**  
-	* _Diagramming, Visualizations, Systems Focus_  
+  * _Diagramming, Visualizations, Systems Focus_  
     Causal Loop Diagramming, Current Reality Modeling. Ability to understand the "why", not just the "what", and to use techniques, such as "five why's", to make dependencies and root cause big and visible.
-	* _Agile Development Skills_  
+  * _Agile Development Skills_  
     Includes TDD, BDD, CI, build and deployment automation.
-	* _Agile Story Management_  
+  * _Agile Story Management_  
     Use of Value Stories, writing user stories, lightweight story mapping, backlog grooming.
 7. **Emotional Intelligence**
-	* _Self-awareness_  
+  * _Self-awareness_  
     Engage in the process of self-exploration. Eliminating blind spots. Know yourself as you really are.
-	* _Self-management_  
+  * _Self-management_  
     Engage in the process of self-management. Evidence of consistent reflection, shows self-control and coaches others to do the same.
-	* _Social Awareness_  
+  * _Social Awareness_  
     Engage in the process of social-awareness. Evidence of leading others to be socially aware.
-	* _Relationship Management (Social/Team Awareness)_  
+  * _Relationship Management (Social/Team Awareness)_  
     Evidence of building relationships inside the team. Active awareness that team relationships are valued. Evidence of leading others to build relationships.
-	* _Relationship Management (Contextual Awareness -Relationships outside of the team)_  
+  * _Relationship Management (Contextual Awareness -Relationships outside of the team)_  
     Evidence of building relationships outside the team. Evidence that relationships are valued outside the team room. Evidence of coaching others to build relationships outside the team.
 8. **Developing People**
-	* _Mentoring Internal Pillar People_  
+  * _Mentoring Internal Pillar People_  
       Holistically helping others to realize their potential and goals.
-	* _Recruiting_  
+  * _Recruiting_  
       Recruiting talented individuals to Pillar.
-	* _Coaching External to Pillar_  
+  * _Coaching External to Pillar_  
       Coaching others with situationally specific feedback vs emotion.
-	* _Treat People Like People, Not Like Machines_  
+  * _Treat People Like People, Not Like Machines_  
       Understanding that in addition to being rational, people are also emotional and social.
 
 [top](#table-of-contents)
@@ -146,34 +146,25 @@ This study guide is meant to provide some topics to help artisans focus on impro
 * How will we know we have achieved the business outcome?
 
 ## Agile Manifesto principles
-1. **Customer satisfaction through early and continuous software delivery**  
-   Customers are happier when they receive working software at regular intervals, rather than waiting extended periods of time between releases.
-2. **Accommodate changing requirements throughout the development process**  
-   The ability to avoid delays when a requirement or feature request changes.
-3. **Frequent delivery of working software**  
-   Scrum accommodates this principle since the team operates in software sprints or iterations that ensure regular delivery of working software.
-4. **Collaboration between the business stakeholders and developers throughout the project**  
-   Better decisions are made when the business and technical team are aligned.
-5. **Support, trust, and motivate the people involved**  
-   Motivated teams are more likely to deliver their best work than unhappy teams.
-6. **Enable face-to-face interactions**  
-   Communication is more successful when development teams are co-located.
-7. **Working software is the primary measure of progress**  
-   Delivering functional software to the customer is the ultimate factor that measures progress.
-8. **Agile processes to support a consistent development pace**  
-   Teams establish a repeatable and maintainable speed at which they can deliver working software, and they repeat it with each release.
-9. **Attention to technical detail and design enhances agility** – The right skills and good design ensures the team can maintain the pace, constantly improve the product, and sustain change.
-10. **Simplicity**  
-   Develop just enough to get the job done for right now.
-11. **Self-organizing teams encourage great architectures, requirements, and designs**  
-   Skilled and motivated team members who have decision-making power, take ownership, communicate regularly with other team members, and share ideas that deliver quality products.
-12. **Regular reflections on how to become more effective**  
-   Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently.
+1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
+2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
+3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.
+4. Business people and developers must work together daily throughout the project.
+5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.
+6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.
+7. Working software is the primary measure of progress.
+8. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.
+9. Continuous attention to technical excellence and good design enhances agility.
+10. Simplicity--the art of maximizing the amount of work not done--is essential.
+11. The best architectures, requirements, and designs emerge from self-organizing teams.
+12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
 [top](#table-of-contents)
 
 ## Value practices
 Choose 4 and be prepared to explain and discuss them, focusing on a theoretical conversation with a client as to why they are important. These items are linked to Step It Up badges.
+
+**The links to Step It Up content will not work unless you are logged into Step It Up with your Pillar account in this browser.**
 
   * [5 Questions](https://getstepitup.com/deliveryModel/badgeGroup/981)
   * [Boundary Critique](https://getstepitup.com/deliveryModel/badgeGroup/491)
@@ -191,11 +182,13 @@ Choose 4 and be prepared to explain and discuss them, focusing on a theoretical 
 ## Team Room Practices
 Choose 5 and be prepared to explain and discuss them, focusing on a theoretical conversation with a client as to why they are important. Many of these items are linked to Step It Up badges.
 
+**The links to Step It Up content will not work unless you are logged into Step It Up with your Pillar account in this browser.**
+
 * [Backlog Grooming](ttps://getstepitup.com/deliveryModel/badgeGroup/821)
 * Big Picture Planning
 * [Big and Visible](ttps://getstepitup.com/deliveryModel/badgeGroup/901)
-   * Progress
-   * Problems
+    * Progress
+    * Problems
 * [Create Cadence](https://getstepitup.com/deliveryModel/badgeGroup/1251)
 * [Definition of Done](https://getstepitup.com/deliveryModel/badgeGroup/551)
 * [External Stakeholder Management](https://getstepitup.com/deliveryModel/badgeGroup/571)
@@ -221,7 +214,9 @@ Choose 5 and be prepared to explain and discuss them, focusing on a theoretical 
 [top](#table-of-contents)
 
 ## Engineering practices
-Choose 5 and be prepared to explain and discuss them, focusing on a theoretical conversation with a client as to why they are important. These items are linked to Step It Up bages.
+Choose 5 and be prepared to explain and discuss them, focusing on a theoretical conversation with a client as to why they are important. These items are linked to Step It Up badges.
+
+**The links to Step It Up content will not work unless you are logged into Step It Up with your Pillar account in this browser.**
 
 * [Apprenticeship Patterns](https://getstepitup.com/deliveryModel/badgeGroup/711)
 * [Behavior-Driven Development](https://getstepitup.com/deliveryModel/badgeGroup/41)
