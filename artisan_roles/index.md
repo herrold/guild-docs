@@ -37,6 +37,7 @@ As an **Apprentice**
 I should exhibit all previous behaviors in addition to the following behaviors:
 
 - Proficiency in at least 1 marketable technology
+- Able to consistently drive a user story from start to finish
 - Aware of the Pillar Principles and Practices
 - Aware of the Pillar Core Competencies
 - Actively participated on at least one Pillar Project
