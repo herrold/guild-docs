@@ -208,7 +208,7 @@ Choose 5 and be prepared to explain and discuss them, focusing on a theoretical 
 * [Team Room Smells](https://getstepitup.com/deliveryModel/badgeGroup/581)
 * [Technical Debt](https://getstepitup.com/deliveryModel/badgeGroup/741)
 * [User Stories](https://getstepitup.com/deliveryModel/badgeGroup/601)
-* [User Story Breakdown](https://getstepitup.com/deliveryModel/badgeGroup/601)
+* [User Story Breakdown](https://getstepitup.com/deliveryModel/badgeGroup/61)
 * [Zero Defects](https://getstepitup.com/deliveryModel/badgeGroup/811)
 
 [top](#table-of-contents)
