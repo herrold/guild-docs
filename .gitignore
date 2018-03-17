@@ -3,3 +3,4 @@ _site/
 .idea/
 .vagrant/
 *.iml
+.DS_Store
