@@ -170,8 +170,8 @@ Choose 4 and be prepared to explain and discuss them, focusing on a theoretical 
   * [Boundary Critique](https://getstepitup.com/deliveryModel/badgeGroup/491)
   * [Enterprise Value Modeling](https://getstepitup.com/deliveryModel/badgeGroup/21)
   * [Business Involvement](https://getstepitup.com/deliveryModel/badgeGroup/1091)
-  * [Personas](https://getstepitup.com/deliveryModel/badgeGroup/1091)
-  * [Product Roadmap](https://getstepitup.com/deliveryModel/badgeGroup/1091)
+  * [Personas](https://getstepitup.com/deliveryModel/badgeGroup/1141)
+  * [Product Roadmap](https://getstepitup.com/deliveryModel/badgeGroup/1231)
   * [Release Thin-slicing](https://getstepitup.com/deliveryModel/badgeGroup/1)
   * [Story Mapping](https://getstepitup.com/microdegree/398)
   * [Value-Centered Design](https://getstepitup.com/deliveryModel/badgeGroup/1131)
@@ -184,9 +184,9 @@ Choose 5 and be prepared to explain and discuss them, focusing on a theoretical 
 
 **The links to Step It Up content will not work unless you are logged into Step It Up with your Pillar account in this browser.**
 
-* [Backlog Grooming](ttps://getstepitup.com/deliveryModel/badgeGroup/821)
+* [Backlog Grooming](https://getstepitup.com/deliveryModel/badgeGroup/821)
 * Big Picture Planning
-* [Big and Visible](ttps://getstepitup.com/deliveryModel/badgeGroup/901)
+* [Big and Visible](https://getstepitup.com/deliveryModel/badgeGroup/901)
     * Progress
     * Problems
 * [Create Cadence](https://getstepitup.com/deliveryModel/badgeGroup/1251)
@@ -208,7 +208,7 @@ Choose 5 and be prepared to explain and discuss them, focusing on a theoretical 
 * [Team Room Smells](https://getstepitup.com/deliveryModel/badgeGroup/581)
 * [Technical Debt](https://getstepitup.com/deliveryModel/badgeGroup/741)
 * [User Stories](https://getstepitup.com/deliveryModel/badgeGroup/601)
-* [User Story Breakdown](https://getstepitup.com/deliveryModel/badgeGroup/601)
+* [User Story Breakdown](https://getstepitup.com/deliveryModel/badgeGroup/61)
 * [Zero Defects](https://getstepitup.com/deliveryModel/badgeGroup/811)
 
 [top](#table-of-contents)
