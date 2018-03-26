@@ -48,16 +48,16 @@ Each of the following steps are required.
 
 1. Gain sponsorship from a Craftsman who has worked with you
 2. Review all the pages on this web site
-2. Create a one or two page document summarizing how you have met the next Guild Persona requirements. Do this with your Sponsor so that you can receive feedback about steps for improvement
-3. When your Sponsor agrees that you are ready for progression, they will arrange for another Craftsman who knows you (preferably someone outside your current team) to meet with the two of you. The outcome of that meeting will be one of the following:
-  * You will be given a list of action items to work on over a specified period of time (3/6/12 months);
-  * You will be approved to go meet with the next group of individuals.
-4. Repeat step 3 until you receive approval.
-  * If you disagree with the outcome of your meeting with your Sponsor and the other Craftsman, you can reach out to your Account Artisan or Regional Artisan.
-5. You and your sponsor will meet with the Account Artisan (if one exists), the Regional Artisan(s) and the Regional Learning Champion for Craftsmanship. The result of this meeting is either craftsman recognition or action items.
-5. If the result of your meeting is you're ready, then the Regional Artisan will work with Delivery to determine when this move can happen.
+3. Create a one or two page document summarizing how you have met the next Guild Persona requirements. Do this with your Sponsor so that you can receive feedback about steps for improvement
+4. When your Sponsor agrees that you are ready for progression, they will arrange for another Craftsman who knows you (preferably someone outside your current team) to meet with the two of you. The outcome of that meeting will be one of the following:
+    * You will be given a list of action items to work on over a specified period of time (3/6/12 months);
+    * You will be approved to go meet with the next group of individuals.
+5. Repeat step 3 until you receive approval.
+    * If you disagree with the outcome of your meeting with your Sponsor and the other Craftsman, you can reach out to your Account Artisan or Regional Artisan.
+6. You and your sponsor will meet with the Account Artisan (if one exists), the Regional Artisan(s) and the Regional Learning Champion for Craftsmanship. The result of this meeting is either craftsman recognition or action items.
+7. If the result of your meeting is you're ready, then the Regional Artisan will work with Delivery to determine when this move can happen.
 ***Please note that, based on various factors, an immediate move is not always possible.***
-6. After final approvals have been obtained, you will receive a letter acknowledging your new Persona.  Only then will the candidacy for progression be completed.
+8. After final approvals have been obtained, you will receive a letter acknowledging your new Persona.  Only then will the candidacy for progression be completed.
 
 ---
 
